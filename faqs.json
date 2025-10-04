@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the official definition of hypertension?",
+    "answer": "Hypertension is diagnosed when a person's blood pressure is persistently above a systolic of 140 mm Hg and/or a diastolic of 90 mm Hg[cite: 812]. The diagnosis should be based on at least two measurements taken on at least two separate visits, which are typically 1-4 weeks apart[cite: 809]."
+  },
+  {
+    "question": "What are the different grades of hypertension?",
+    "answer": "Hypertension is classified into three grades based on severity [cite: 818]:\n- **Grade 1:** Systolic BP 140-159 mm Hg and/or Diastolic BP 90-99 mm Hg [cite: 818].\n- **Grade 2:** Systolic BP 160-179 mm Hg and/or Diastolic BP 100-109 mm Hg [cite: 818].\n- **Grade 3:** Systolic BP ≥180 mm Hg and/or Diastolic BP ≥110 mm Hg[cite: 818]."
+  },
+  {
+    "question": "Who should be screened for high blood pressure?",
+    "answer": "All adults over the age of 18 should undergo opportunistic screening for hypertension whenever they visit a healthcare provider[cite: 788]. Additionally, targeted screening is recommended for high-risk groups, including adults over 50, individuals who are obese or smokers, and those with a family history of hypertension or existing cardiovascular diseases[cite: 789]."
+  },
+  {
+    "question": "What is the target blood pressure I should aim for with treatment?",
+    "answer": "For patients under 80 years of age, the treatment goal is a blood pressure of less than 140/90 mm Hg[cite: 943]. For patients aged 80 years or older, the target is less than 150/90 mm Hg[cite: 944]."
+  },
+  {
+    "question": "What lifestyle changes are most important for managing hypertension?",
+    "answer": "Lifestyle modifications are a vital component of managing hypertension[cite: 760]. Key recommendations include:\n- **Salt Reduction:** Limit daily salt intake to less than 5 grams [cite: 1522].\n- **Physical Activity:** Engage in at least 150 minutes of moderate-intensity activity (like brisk walking) per week [cite: 1377].\n- **Weight Management:** Achieve and maintain a healthy body weight, with a target BMI of 18.5-22.9 for Indians [cite: 1436, 1439].\n- **Diet:** Adopt a heart-healthy diet rich in fruits and vegetables and low in saturated fat [cite: 921, 1520].\n- **Tobacco & Alcohol:** Stop all tobacco use and moderate alcohol consumption[cite: 921]."
+  },
+  {
+    "question": "When is medication necessary for high blood pressure?",
+    "answer": "Drug therapy is indicated for all patients with Grade 2 and Grade 3 hypertension[cite: 933]. For Grade 1 hypertension, medication is started if a 1-3 month trial of lifestyle changes is not effective, or if the patient has other high-risk factors like diabetes, kidney disease, or signs of organ damage[cite: 932, 926]."
+  },
+  {
+    "question": "What are the first-line medications for hypertension?",
+    "answer": "For patients without other compelling medical conditions, the initial antihypertensive drug can be a long-acting calcium channel blocker (like amlodipine), a low-dose thiazide diuretic, or a low-cost ACE inhibitor (like enalapril)[cite: 971]."
+  },
+  {
+    "question": "How are patients with both diabetes and hypertension treated?",
+    "answer": "For patients with both diabetes and hypertension, ACE inhibitors are the preferred drugs for initial therapy, especially if the patient has protein in their urine (proteinuria)[cite: 974]. Calcium channel blockers or diuretics can be added if needed to achieve the target BP of <140/90 mm Hg[cite: 975, 1098]."
+  },
+  {
+    "question": "What is the difference between a hypertensive urgency and a hypertensive emergency?",
+    "answer": "Both involve severely elevated blood pressure (typically SBP > 180 or DBP > 110). \n- **Hypertensive Urgency:** The patient is relatively asymptomatic and shows no signs of acute or ongoing organ damage. The BP should be lowered gradually over hours or days using oral medication[cite: 1159, 1163].\n- **Hypertensive Emergency:** The patient has signs of acute organ damage (like altered consciousness, chest pain, breathlessness, or kidney failure). This requires immediate hospitalization for rapid BP reduction with intravenous (IV) drugs[cite: 1144, 1145]."
+  },
+  {
+    "question": "Is it safe to use sublingual nifedipine to quickly lower very high blood pressure?",
+    "answer": "No. The guidelines explicitly recommend **not** to use oral or sublingual nifedipine for hypertensive emergencies or urgencies[cite: 1154, 1168]. It can cause an excessive and abrupt fall in blood pressure, which may lead to serious complications like a stroke or heart attack[cite: 1153]."
+  },
+  {
+    "question": "What is a 'cyanotic spell' in a child with a heart defect?",
+    "answer": "A cyanotic or 'hypercyanotic' spell is a pediatric emergency common in certain congenital heart diseases[cite: 75]. It is recognized by a sudden onset of incessant crying, irritability, deep and rapid breathing (tachypnea), and a deepening of blue skin color (cyanosis)[cite: 80, 81, 82]. It can lead to limpness and seizures if not treated promptly[cite: 83]."
+  },
+  {
+    "question": "How is a cyanotic spell managed?",
+    "answer": "Prompt intervention is required to prevent serious complications. Management steps include: \n1. Providing oxygen and placing the child in a knee-chest position[cite: 96, 98].\n2. Sedating the child with subcutaneous morphine or intramuscular ketamine[cite: 100].\n3. Administering soda-bicarbonate and fluids to correct acidosis and hypovolemia[cite: 101, 102].\n4. Starting beta-blocker therapy, such as IV metoprolol, to control heart rate[cite: 104, 107]."
+  },
+  {
+    "question": "What is Acute Rheumatic Fever (ARF)?",
+    "answer": "Acute Rheumatic Fever is a disease that can develop after a streptococcal infection. It is important to not miss the initial diagnosis because secondary penicillin prophylaxis is the most effective way to prevent the development of Rheumatic Heart Disease (RHD), a chronic condition that damages the heart valves[cite: 166]."
+  },
+  {
+    "question": "What is Non-ST Elevation Acute Coronary Syndrome (NSTE-ACS)?",
+    "answer": "NSTE-ACS is a term used to describe clinical symptoms of acute myocardial ischemia (a heart attack)[cite: 204]. It comprises two conditions: Unstable Angina (UA) and Non-ST Elevation Myocardial Infarction (NSTEMI)[cite: 205]."
+  },
+  {
+    "question": "How can you tell the difference between Unstable Angina and NSTEMI?",
+    "answer": "The two conditions have similar symptoms, but the distinction is made retrospectively based on cardiac biomarkers[cite: 230]. If the ischemia is severe enough to cause myocardial damage, cardiac troponin levels will be elevated, and the condition is diagnosed as NSTEMI[cite: 227]. If there is no enzyme elevation, it is labeled as Unstable Angina[cite: 228]."
+  },
+  {
+    "question": "Should 'clot-busting' (fibrinolytic) drugs be used for NSTE-ACS?",
+    "answer": "No. Fibrinolytic therapy (such as streptokinase or tenecteplase) should **not** be used in patients with NSTE-ACS (Unstable Angina and NSTEMI)[cite: 310]. The guidelines state these agents can be harmful in this situation[cite: 311]."
+  },
+  {
+    "question": "What is the recommended initial antiplatelet therapy for NSTE-ACS?",
+    "answer": "All patients with NSTE-ACS should receive aspirin unless it's contraindicated[cite: 327]. The initial recommended dose is 162 to 325 mg of chewed, non-enteric aspirin[cite: 328]. In addition, clopidogrel is recommended for all patients, with an immediate loading dose of 300 mg followed by a daily dose of 75 mg[cite: 331]."
+  },
+  {
+    "question": "What is the TIMI risk score used for?",
+    "answer": "The TIMI risk score is a simple tool used for risk stratification in patients with NSTE-ACS[cite: 288]. It uses clinical variables to assess prognosis and help guide treatment decisions[cite: 287, 288]. A low TIMI score (<3) usually indicates a low risk, while a score >3 suggests an intermediate or high risk[cite: 289]."
+  },
+  {
+    "question": "What is ST-Elevation Myocardial Infarction (STEMI)?",
+    "answer": "STEMI is a severe type of heart attack where a major coronary artery is completely blocked, leading to significant damage to the heart muscle. It is diagnosed by a history of chest pain and characteristic changes on a 12-lead ECG, specifically persistent ST-segment elevation[cite: 523, 530]."
+  },
+  {
+    "question": "What is the most important treatment for STEMI?",
+    "answer": "Reperfusion therapy, which is the restoration of blood flow to the heart, is the cornerstone of STEMI management[cite: 564]. It should be instituted in all eligible patients who present within 12 hours of the onset of symptoms[cite: 564]."
+  },
+  {
+    "question": "What are the reperfusion therapy options for STEMI in India?",
+    "answer": "The two main options are primary PCI (Percutaneous Coronary Intervention, or angioplasty) and fibrinolytic therapy ('clot-busting' drugs)[cite: 564]. While timely primary PCI is the most effective therapy, it may not be widely available[cite: 564]. Therefore, fibrinolytic therapy with agents like streptokinase or tenecteplase remains the most practical and common reperfusion strategy for India[cite: 565, 567]."
+  },
+  {
+    "question": "What is the recommended initial medication for a suspected STEMI?",
+    "answer": "The first treatment that should be given is 325 mg of non-enteric-coated aspirin, which should be chewed[cite: 553]. All patients should also receive a loading dose of clopidogrel (300 to 600 mg)[cite: 554]."
+  },
+  {
+    "question": "What is the difference between an invasive and conservative strategy for NSTE-ACS?",
+    "answer": "An 'invasive strategy' refers to performing a coronary angiography followed by revascularization (PCI or bypass surgery) within 2 to 24 hours of hospitalization[cite: 384]. A 'conservative strategy' involves initial medical stabilization, with angiography performed later if needed[cite: 385]. Studies show that an early invasive strategy benefits high-risk patients by reducing severe recurrent ischemia and the need for re-hospitalization[cite: 390, 386]."
+  },
+  {
+    "question": "What are the common side effects of ACE inhibitors like enalapril?",
+    "answer": "The most common side effect is a dry, irritating cough, which may require stopping the medication[cite: 1205, 1600]. Angioedema (swelling) is a rare but potentially serious side effect[cite: 1600]. A small, reversible rise in serum creatinine can also occur[cite: 1680]."
+  },
+  {
+    "question": "What are the common side effects of calcium channel blockers like amlodipine?",
+    "answer": "The chief side effect is dose-related pedal edema (swelling in the feet and ankles)[cite: 1202, 1569]. Other side effects related to vasodilation, such as headache and flushing, may occur but often disappear after a few days[cite: 1570]."
+  },
+  {
+    "question": "Are there any risks with taking thiazide diuretics for blood pressure?",
+    "answer": "In low doses (12.5 mg), they are generally well-tolerated[cite: 1612]. However, they can cause metabolic side effects like hypokalemia (low potassium) and hyponatremia (low sodium), especially in the elderly[cite: 1203]. They can also worsen gout and glycemic control at higher doses[cite: 1622]."
+  },
+  {
+    "question": "What is the proper procedure for measuring blood pressure?",
+    "answer": "The patient should be relaxed for 5 minutes, seated comfortably with their back supported and feet uncrossed[cite: 792]. The arm should be supported at heart level[cite: 792]. An appropriately sized cuff should be used[cite: 792]. At least two readings should be taken 1 minute apart, and the lower reading should be recorded as the representative BP[cite: 792]."
+  },
+  {
+    "question": "Can I take aspirin for long-term prevention if I have high blood pressure?",
+    "answer": "Low-dose aspirin (75 mg/day) is recommended for secondary prevention in patients with controlled hypertension who have a previous history of a cardiovascular event (like a heart attack or stroke)[cite: 1181]. It is not recommended for hypertensive patients at low-to-moderate risk without cardiovascular disease, as the risk of major bleeding outweighs the benefit[cite: 1183]."
+  },
+  {
+    "question": "Are beta-blockers a good first choice for treating simple hypertension?",
+    "answer": "While effective, beta-blockers are generally preferred for patients with compelling indications like a previous myocardial infarction or heart failure[cite: 1103, 1106]. For uncomplicated hypertension, other classes like calcium channel blockers, ACE inhibitors, or diuretics are often chosen first[cite: 971]. The combination of beta-blockers and diuretics should be avoided as it can increase the risk of developing diabetes[cite: 1046]."
+  },
+  {
+    "question": "When should statins be prescribed for a patient with hypertension?",
+    "answer": "Statins should be prescribed for hypertensive patients who have overt atherosclerotic cardiovascular disease (e.g., history of heart attack, stroke, or angina)[cite: 1185]. They are also recommended for patients over 40 with very high LDL-cholesterol, diabetes, or multiple cardiovascular risk factors[cite: 1189, 1190, 1191]."
+  }
+]
