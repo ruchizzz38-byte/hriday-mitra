@@ -48,7 +48,7 @@ def find_best_match(query, faqs):
 faqs = load_faqs()
 
 st.title("🩺 Hriday Mitra 🫀🫶🏻")
-st.markdown("**Disclaimer:** This is for informational purposes only and is not a substitute for professional medical advice.")
+st.markdown("**Disclaimer:** "Namaste! 🙏 I am your health assistant for information on high blood pressure (Hypertension), based on Indian health guidelines. I am not a doctor. How can I help you today?")
 
 # Initialize chat history
 if "messages" not in st.session_state:
